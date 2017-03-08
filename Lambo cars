@@ -1,0 +1,263 @@
+/label>
+		
+</div>
+ 
+<div class="box">
+
+		<a href="pictures/Lamborghini-Murcielago-SV-2.jpg"
+		data-image-role="trigger"
+		data-image-title="Lamborghini Murcielago SV 2"
+		data-image-url="pictures/Lamborghini-Murcielago-SV-2.jpg">
+
+	<img src="pictures/Lamborghini-Murcielago-SV-2.jpg"
+		alt="Lamborghini Murcielago" height="180" width="250">
+		<p>Lamborghini Murcielago <br/>Starting at just <b>&#163;2,300</b> per month.</p><br/>
+		<label></label>
+		<input id="buy" type="radio" name="gender" value="b">
+		<label for="buy">Buy</label>
+		<input id="rent" type="radio" name="gender" value="b">
+		<label for="rent">Rent</label>
+ </div>
+ 
+ <div class="box">
+ 
+		<a href="pictures/lb_works_liberty_walk_lamborghini_gallardo_600.jpg"
+		data-image-role="trigger"
+		data-image-title="LB Works Liberty"
+		data-image-url="pictures/lb_works_liberty_walk_lamborghini_gallardo_600.jpg">
+		
+	<img src="pictures/lb_works_liberty_walk_lamborghini_gallardo_600.jpg"
+		alt="Lamborghini Gallardo" height="180" width="250">
+			<p>LB Works Lamborghini Gallardo <br/>Starting at just <b>&#163;2,300</b> per month.</p><br/>
+			<label></label>
+		<input id="buy" type="radio" name="gender" value="b">
+		<label for="buy">Buy</label>
+		<input id="rent" type="radio" name="gender" value="b">
+		<label for="rent">Rent</label>
+ </div>
+ 
+<div class="box">
+	<a href="pictures/used lambo diablo.jpg"
+		data-image-role="trigger"
+		data-image-title="lambo diablo"
+		data-image-url="pictures/used lambo diablo.jpg">
+
+	<img src="pictures/used lambo diablo.jpg" alt="Lamborghini Diablo"
+		height="180" width="250px">
+		<p>Used Lamborghini Diablo For Sale <br/>Starting at just <b>&#163;2,300</b> per month.</p><br>
+		<label></label>
+		<input id="buy" type="radio" name="gender" value="b">
+		<label for="buy">Buy</label>
+		<input id="rent" type="radio" name="gender" value="b">
+		<label for="rent">Rent</label>
+</div>
+ 
+ <div class="box">
+ <a href="pictures/lambo cherry.jpg"
+		data-image-role="trigger"
+		data-image-title="lambo diablo"
+		data-image-url="pictures/lambo cherry.jpg">
+		
+	<img src="pictures/lambo cherry.jpg"
+		alt="Lamborghini Murcielago" height="180" width="250">
+		<p>Lamborghini Cherry <br/>Starting at just <b>&#163;2,300</b> per month.</p><br/>
+		<label></label>
+		<input id="buy" type="radio" name="gender" value="b">
+		<label for="buy">Buy</label>
+		<input id="rent" type="radio" name="gender" value="b">
+		<label for="rent">Rent</label>
+ </div>
+ 
+ <div class="box">
+  <a href="pictures/Lamborghini-Aventador-S-yellow.jpg"
+		data-image-role="trigger"
+		data-image-title="lambo diablo"
+		data-image-url="pictures/Lamborghini-Aventador-S-yellow.jpg">
+	<img src="pictures/Lamborghini-Aventador-S-yellow.jpg" alt="Lamborghini Gallardo" height="180" width="250">
+		<p>Lamborghini Aventador S Coupe <br/>Starting at just <b>&#163;2,300</b> per month.</p><br/>
+		<label></label>
+		<input id="buy" type="radio" name="gender" value="b">
+		<label for="buy">Buy</label>
+		<input id="rent" type="radio" name="gender" value="b">
+		<label for="rent">Rent</label>
+ </div>
+ 
+ <div class="box">
+   <a href="pictures/lamborghini vinyl gold.jpg"
+		data-image-role="trigger"
+		data-image-title="lambo diablo"
+		data-image-url="pictures/lamborghini vinyl gold.jpg">
+ <!--this is how you single out a specific class<h3 class="homie">Hot Deal </h3>-->
+	<img src="pictures/lamborghini vinyl gold.jpg"
+		alt="Lamborghini Diablo" height="180" width="250">
+		<p>Vinyl Gold Wrapped Super Car LAM <br/>Starting at just <b>&#163;2,300</b> per month.</p><br/>
+		<label></label>
+		<input id="buy" type="radio" name="gender" value="b">
+		<label for="buy">Buy</label>
+		<input id="rent" type="radio" name="gender" value="b">
+		<label for="rent">Rent</label>
+		</div>
+ 
+	<div class="box">
+	   <a href="pictures/lamborghini-centenario_05.jpg"
+		data-image-role="trigger"
+		data-image-title="lambo diablo"
+		data-image-url="pictures/lamborghini-centenario_05.jpg">
+		
+		<img src="pictures/lamborghini-centenario_05.jpg"
+		alt="Lamborghini Murcielago" height="180" width="250">
+		<p>Lamborghini Centenario Roadster <br/>Starting at just <b>&#163;2,300</b> per month.</p><br/>
+		<label></label>
+		<input id="buy" type="radio" name="gender" value="b">
+		<label for="buy">Buy</label>
+		<input id="rent" type="radio" name="gender" value="b">
+		<label for="rent">Rent</label>
+	</div>
+ 
+<div class="box">
+		<a href="pictures/lambo veneno.jpg"
+		data-image-role="trigger"
+		data-image-title="lambo diablo"
+		data-image-url="pictures/lambo veneno.jpg">
+
+
+	<img src="pictures/lambo veneno.jpg"
+		alt="Lamborghini Gallardo" height="180" width="250">
+			<p>Lamborghini Veneno <br/>Starting at just <b>&#163;2,300</b> per month.</p><br/>
+			<label></label>
+		<input id="buy" type="radio" name="gender" value="b">
+		<label for="buy">Buy</label>
+		<input id="rent" type="radio" name="gender" value="b">
+		<label for="rent">Rent</label>
+	</div>
+	
+ </div>
+ <div class="container2">
+	<div class="moretext">
+		<h1><marquee>MORE TEXT</marquee></h1></div>
+	<div class="box">
+		<img src="https://s1.cdn.autoevolution.com/images/news/gallery/geneva-2012-bugatti-veyron-grand-sport-vitesse-live-photos_3.jpg"
+		alt="Lamborghini Diablo" height="180" width="250">
+		<p>Bugatti Veyron Grand Sport Vitesse <br/>Starting at just <b>&#163;2,300</b> per month.</p><br/>
+		<label></label>
+		<input id="buy" type="radio" name="gender" value="b">
+		<label for="buy">Buy</label>
+		<input id="rent" type="radio" name="gender" value="b">
+		<label for="rent">Rent</label>
+		
+</div>
+ 
+<div class="box">
+	<img src="pictures/bugatti matte.jpg"
+		alt="Lamborghini Murcielago" height="180" width="250">
+		<p> Matte Black Colored Bugatti Veyron <br/>Starting at just <b>&#163;2,300</b> per month.</p><br/>
+		<label></label>
+		<input id="buy" type="radio" name="gender" value="b">
+		<label for="buy">Buy</label>
+		<input id="rent" type="radio" name="gender" value="b">
+		<label for="rent">Rent</label>
+ </div>
+ 
+ <div class="box">
+	<img src="pictures/bugatti lightgrey.jpg"
+		alt="Lamborghini Gallardo" height="180" width="250">
+			<p>2012 Bugatti Veyron 164 Grand Sports Vehicle  <br/>Starting at just <b>&#163;2,300</b> per month.</p><br/>
+			<label></label>
+		<input id="buy" type="radio" name="gender" value="b">
+		<label for="buy">Buy</label>
+		<input id="rent" type="radio" name="gender" value="b">
+		<label for="rent">Rent</label>
+ </div>
+ 
+<div class="box">
+	<img src="pictures/audi 08.jpg" alt="Lamborghini Diablo"
+		height="180" width="250px">
+		<p>2008 Audi R8 <br/>Starting at just <b>&#163;2,300</b> per month.</p><br>
+		<label></label>
+		<input id="buy" type="radio" name="gender" value="b">
+		<label for="buy">Buy</label>
+		<input id="rent" type="radio" name="gender" value="b">
+		<label for="rent">Rent</label>
+</div>
+ 
+ <div class="box">
+	<img src="pictures/vinyl gold wrapped super car.jpg"
+		alt="Lamborghini Murcielago" height="180" width="250">
+		<p>Vinyl Gold Wrapped Super Car LAM <br/>Starting at just <b>&#163;2,300</b> per month.</p><br/>
+		<label></label>
+		<input id="buy" type="radio" name="gender" value="b">
+		<label for="buy">Buy</label>
+		<input id="rent" type="radio" name="gender" value="b">
+		<label for="rent">Rent</label>
+ </div>
+ 
+ <div class="box">
+	<img src="pictures/maserati black.jpg" alt="Lamborghini Gallardo" height="180" width="250">
+		<p>2017 Maserati Ghibli<br/>Starting at just <b>&#163;2,300</b> per month.</p><br/>
+		<label></label>
+		<input id="buy" type="radio" name="gender" value="b">
+		<label for="buy">Buy</label>
+		<input id="rent" type="radio" name="gender" value="b">
+		<label for="rent">Rent</label>
+ </div>
+ 
+ <div class="box">
+ 
+ <h3></h3>
+	<img src="pictures/lexus gtr.jpg"
+		alt="Lamborghini Diablo" height="180" width="250">
+		<p>Lexus GTR <br/>Starting at just <b>&#163;2,300</b> per month.</p><br/>
+		<label></label>
+		<input id="buy" type="radio" name="gender" value="b">
+		<label for="buy">Buy</label>
+		<input id="rent" type="radio" name="gender" value="b">
+		<label for="rent">Rent</label>
+		</div>
+ 
+	<div class="box">
+		<img src="pictures/lam gtr liberty.jpg"
+		alt="Lamborghini Murcielago" height="180" width="250">
+		<p>Lamborghini GTR Liberty Walk Red <br/>Starting at just <b>&#163;2,300</b> per month.</p><br/>
+		<label></label>
+		<input id="buy" type="radio" name="gender" value="b">
+		<label for="buy">Buy</label>
+		<input id="rent" type="radio" name="gender" value="b">
+		<label for="rent">Rent</label>
+	</div>
+ 
+<div class="box">
+	<img src="pictures/acura nsx white.jpg"
+		alt="Lamborghini Gallardo" height="180" width="250">
+			<p>2005 Acura NSX white <br/>Starting at just <b>&#163;2,300</b> per month.</p><br/>
+			<label></label>
+		<input id="buy" type="radio" name="gender" value="b">
+		<label for="buy">Buy</label>
+		<input id="rent" type="radio" name="gender" value="b">
+		<label for="rent">Rent</label>
+	</div>
+</div>
+
+ <div class="feet">
+	<footer>
+		<address>
+		<p>For booking call 1-800-LAM-BLUX. Subscribe to your email to rent@lambo.lux.</p><br/>
+		<div class="div"></div>
+		</address>
+	</footer>
+</div>
+</body>
+ </html>
+ erty.jpg"
+		alt="Lamborghini Murcielago" height="180" width="250">
+		<p>Lamborghini GTR Liberty Walk Red <br/>Starting at just <b>&#163;2,300</b> per month.</p><br/>
+		<label></label>
+		<input id="buy" type="radio" name="gender" value="b">
+		<label for="buy">Buy</label>
+		<input id="rent" type="radio" name="gender" value="b">
+		<label for="rent">Rent</label>
+	</div>
+ 
+<div class="box">
+	<img src="pictures/acura nsx white.jpg"
+		alt="Lamborghini Gallardo" height="180" width="250">
+			<p>2005 Acura NSX white <br/>Starting at just <b>&#163;2,3
