@@ -1,0 +1,81 @@
+<!doctype html>
+<html>
+
+<head>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+    <link rel="stylesheet" type="text/css" href="simple.css" />
+    <link href="favicon-96x96.png" rel="icon" size="96x96" />
+    <link href="https://fonts.googleapis.com/css?family=Suez+One" rel="stylesheet">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title></title>
+    <meta></meta>
+
+</head>
+
+<body>
+    <div id="body">
+
+        <div class="top">
+            <header>
+                <h1>Floater</h1>
+                <!--<img class="logo" src="pictures/duckies 2.jpeg"
+                alt="Logo" style="width:400px;height:175px;">-->
+
+
+            </header>
+
+        </div>
+
+        <div class="underneath"></div>
+        <!--<nav>
+		<ul>
+			<li> <a href="mach.html">Tab 1</a></li>
+			<li> <a href="mach.html">Tab 2</a></li>
+			<li> <a href="mach.html">Tab 3</a></li>
+			
+		</ul>
+	</nav>-->
+    </div>
+    <div class="container">
+        <h2>Chat Now</h2>
+        <div class="mid-section"></div>
+
+        <div class="leftfloat">
+            <a href="android app.html">LADIES</a>
+            <div class="circlet">
+                <img class="circle" src="pictures/dating site.jpg" alt="Black Woman"></img>
+            </div>
+            <div class="circlet">
+                <img class="circle" src="pictures/dating site.jpg" alt="Black Woman"></img>
+            </div>
+            <div class="circlet">
+                <img class="circle" src="pictures/dating site.jpg" alt="Black Woman"></img>
+            </div>
+            <div class="circlet">
+                <img class="circle" src="pictures/dating site.jpg" alt="Black Woman"></img>
+            </div>
+        </div>
+
+        <div class="rightfloat">
+            <a href="android app.html">GENTS</a>
+            <div class="circlet">
+                <img class="circle" src="pictures/male 3.jpeg" alt="Dude"></img>
+            </div>
+            <div class="circlet">
+                <img class="circle" src="pictures/male 3.jpeg" alt="Dude"></img>
+            </div>
+            <div class="circlet">
+                <img class="circle" src="pictures/male 3.jpeg" alt="Dude"></img>
+            </div>
+            <div class="circlet">
+                <img class="circle" src="pictures/male 3.jpeg" alt="Dude"></img>
+            </div>
+        </div>
+
+
+    </div>
+
+</body>
+
+</html>
